@@ -1,0 +1,20 @@
+Chess Clock Project Plan
+
+## Features
+- Blitz mode
+- Rapid mode
+- Custom mode
+- Pause function
+- Reset function
+- Dual timer display
+
+## Hardware
+- Microcontroller
+- Display
+- Push buttons
+- Battery power
+
+## Future Improvements
+- Fischer increment
+- Custom PCB
+- Rechargeable battery
